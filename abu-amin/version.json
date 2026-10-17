@@ -1,0 +1,8 @@
+{
+  "client": "abu-amin",
+  "version": "1.7.0",
+  "notes": "first .exe release",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.7.0/FarmerInvoices-AbuAmin.exe",
+  "sha256": "21b274a06c5237c8bf99df5af3ba74b302bf880d461e2b40ea470870532a2b4f",
+  "signature": "9fJxDilgCkfCZPn3aIzz7vMc+84CjwYxK6uO1coSAo9gvoFNDw8W5bSHaqtkA5zE7sd2iHcEWHACB2Mx9A6CDg=="
+}
