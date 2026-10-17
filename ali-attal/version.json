@@ -1,8 +1,8 @@
 {
   "client": "ali-attal",
-  "version": "1.7.0",
-  "notes": "first .exe release",
-  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/ali-attal-v1.7.0/FarmerInvoices-AliAttal.exe",
-  "sha256": "67562fe6c6e6746e335439cf0815d60c2b77a4246e745dd4378e04654464da37",
-  "signature": "X7FDM8MSr/uw4m/SwM6SYQapOwjxwgEgoaNEXmgrQ9GlX31Ki3hdoHPJjKZkeOyU+1pNP4HTkvPmbIOyrEA8BA=="
+  "version": "1.7.1",
+  "notes": "remove fingerprint page for shops without a scanner",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/ali-attal-v1.7.1/FarmerInvoices-AliAttal.exe",
+  "sha256": "fd62ffb3581972587ccf178ffe3e6dcaec35712e9aa6185bb8b2f414d791cd1d",
+  "signature": "urTMDTbxbg6daPd+JVf25OtHmU1ih0Ggg9x6yYFcVc7bcEK5eQcLWxuzFacLw1kh6+aLuDRAWC1/3Dt3PIWsCA=="
 }
