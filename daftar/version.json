@@ -1,0 +1,8 @@
+{
+  "client": "daftar",
+  "version": "1.7.0",
+  "notes": "first .exe release",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/daftar-v1.7.0/FarmerInvoices-Daftar.exe",
+  "sha256": "058bfa0d638f1113b0a48e6c3395a1b814899bd69d9573708a1c1385eba6edf8",
+  "signature": "d7bxeFquLBHOmGKmqUfr0WUAOrstndC1YZJUIEZpUH7izpw3yQorvClnt9w6cHh0FW7le5467GcLqIpwYi6FBQ=="
+}
