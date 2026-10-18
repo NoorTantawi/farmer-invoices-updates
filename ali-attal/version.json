@@ -1,8 +1,8 @@
 {
   "client": "ali-attal",
-  "version": "1.7.1",
-  "notes": "remove fingerprint page for shops without a scanner",
-  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/ali-attal-v1.7.1/FarmerInvoices-AliAttal.exe",
-  "sha256": "fd62ffb3581972587ccf178ffe3e6dcaec35712e9aa6185bb8b2f414d791cd1d",
-  "signature": "urTMDTbxbg6daPd+JVf25OtHmU1ih0Ggg9x6yYFcVc7bcEK5eQcLWxuzFacLw1kh6+aLuDRAWC1/3Dt3PIWsCA=="
+  "version": "1.8.0",
+  "notes": "صفحة النماذج: ورقة رسمية وكشف غياب بصيغة Word",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/ali-attal-v1.8.0/FarmerInvoices-AliAttal.exe",
+  "sha256": "8142937189efc22569a91f1356b0a12f5897f1101637afcc9790bda67ad0a53c",
+  "signature": "RtIdnFd+8+RqeVLv8nT/ns4NbRbPGXReV2RQKa+xeZXjxsj5w7QGiDaeIe40uC+g4kBi8JRWMQjaVPLALMM2BQ=="
 }
