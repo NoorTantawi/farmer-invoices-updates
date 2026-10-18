@@ -1,8 +1,8 @@
 {
   "client": "abu-amin",
-  "version": "1.7.1",
-  "notes": "remove fingerprint page for shops without a scanner",
-  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.7.1/FarmerInvoices-AbuAmin.exe",
-  "sha256": "76a88a3fa1d80c16f93d97376781add59bc5a51085243cf1762837b846e19b16",
-  "signature": "rVfLp9X/t48b8erOCOGg8DeQ864EUsGCnUGXB4N912om5L6YH15gim7CqBiB2bWvy8As76dMFIBizMYQ/CamBw=="
+  "version": "1.8.0",
+  "notes": "صفحة النماذج (ورقة رسمية وكشف غياب بصيغة Word)، وقراءة أسعار تصدير المزارع الواحد، وعدم تكرار طباعة الفواتير خلال اليوم",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.8.0/FarmerInvoices-AbuAmin.exe",
+  "sha256": "05d10b76da5979fa20010118f15f6d40c20c0e745edc0468ba4d61a70f8d6d20",
+  "signature": "WMGpQ71Tmo575QGZGh1jwib58GcFLLmgSXbHKiBx9J9YDLmbQzY1kd98Sa2I2pRmUVI85HpeM7qGAngjqRr/Dg=="
 }
