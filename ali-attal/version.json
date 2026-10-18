@@ -1,8 +1,8 @@
 {
   "client": "ali-attal",
-  "version": "1.8.1",
-  "notes": "كشف الغياب اليومي لكل الموظفين، وتاريخ اليوم على الورقة الرسمية، وخانة «تاريخ اليوم» في طلبات الإجازة",
-  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/ali-attal-v1.8.1/FarmerInvoices-AliAttal.exe",
-  "sha256": "3418a894f4713dbf0c23b27612ff87be99e456626504fe4a730dc5fccb2d3605",
-  "signature": "qOVhmliQMmoKHe/FRG+jDwECA36d0g4FoOq4r6m425PAtyuTHeKfFxY0Rt1C9eH0lZ4zOgsAThpfYwqonzd+Cg=="
+  "version": "1.8.2",
+  "notes": "صفحة النماذج الجديدة، وكشف الغياب اليومي بصيغة PDF للطباعة مع الاسم والتوقيع، وتاريخ اليوم مع اسم اليوم تحت ترويسة الورقة الرسمية",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/ali-attal-v1.8.2/FarmerInvoices-AliAttal.exe",
+  "sha256": "0c4784bb3ab4880175ca95e082ac3cb283e16d1332d9162476182ba8d4168537",
+  "signature": "SOsfu7fxqFOXRHy3LBCoD9nzZujiQGDyQnrkHsPoDvMaU/ox4ayCW1YYOqyga0wTdVM4LYlC3lVU+hzUW7TZAw=="
 }
