@@ -1,8 +1,8 @@
 {
   "client": "ali-attal",
-  "version": "1.8.3",
-  "notes": "رأس موحّد لكل الأوراق المطبوعة (رقم النموذج، HR والتاريخ)، ونموذج الإجازة يتطلب توقيع المدير العام، والبرنامج للاطلاع فقط عند انتهاء الترخيص، وتحسينات أمنية",
-  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/ali-attal-v1.8.3/FarmerInvoices-AliAttal.exe",
-  "sha256": "b59c275ee85c90831dfb1ff9fd042afa04b5d7af42444fb0f29e0fa12e0ecc30",
-  "signature": "KHEK5R+Y/Ioutov7BFGWM5vemi4I+oTMgeHaTdXWjwronjkoVH83XBz5k+qdqfk/lMAFKqxFFVbNvVbPvgw4AQ=="
+  "version": "1.8.4",
+  "notes": "اسم البرنامج الآن «الميزان»، وتاريخ ورقم النموذج بخط أكبر على الورقة الرسمية، وخط فوق ملاحظة اعتماد الإجازة من المدير العام",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/ali-attal-v1.8.4/FarmerInvoices-AliAttal.exe",
+  "sha256": "a41185c4b16e54e5f62c881b04cc43712cf0da79cd703dc5086b21aec1994e7e",
+  "signature": "yhHDZBqYjaL7CKx4wc/SKjtmz3bJnDmjyrAj8bpsyyAxlM4fu1B+S1LXgBItrsB3tF1MRVEK80epJztC6XEKDA=="
 }
