@@ -1,8 +1,8 @@
 {
   "client": "ali-attal",
-  "version": "1.8.2",
-  "notes": "صفحة النماذج الجديدة، وكشف الغياب اليومي بصيغة PDF للطباعة مع الاسم والتوقيع، وتاريخ اليوم مع اسم اليوم تحت ترويسة الورقة الرسمية",
-  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/ali-attal-v1.8.2/FarmerInvoices-AliAttal.exe",
-  "sha256": "0c4784bb3ab4880175ca95e082ac3cb283e16d1332d9162476182ba8d4168537",
-  "signature": "SOsfu7fxqFOXRHy3LBCoD9nzZujiQGDyQnrkHsPoDvMaU/ox4ayCW1YYOqyga0wTdVM4LYlC3lVU+hzUW7TZAw=="
+  "version": "1.8.3",
+  "notes": "رأس موحّد لكل الأوراق المطبوعة (رقم النموذج، HR والتاريخ)، ونموذج الإجازة يتطلب توقيع المدير العام، والبرنامج للاطلاع فقط عند انتهاء الترخيص، وتحسينات أمنية",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/ali-attal-v1.8.3/FarmerInvoices-AliAttal.exe",
+  "sha256": "b59c275ee85c90831dfb1ff9fd042afa04b5d7af42444fb0f29e0fa12e0ecc30",
+  "signature": "KHEK5R+Y/Ioutov7BFGWM5vemi4I+oTMgeHaTdXWjwronjkoVH83XBz5k+qdqfk/lMAFKqxFFVbNvVbPvgw4AQ=="
 }
