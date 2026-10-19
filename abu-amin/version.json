@@ -1,8 +1,8 @@
 {
   "client": "abu-amin",
-  "version": "1.8.0",
-  "notes": "صفحة النماذج (ورقة رسمية وكشف غياب بصيغة Word)، وقراءة أسعار تصدير المزارع الواحد، وعدم تكرار طباعة الفواتير خلال اليوم",
-  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.8.0/FarmerInvoices-AbuAmin.exe",
-  "sha256": "05d10b76da5979fa20010118f15f6d40c20c0e745edc0468ba4d61a70f8d6d20",
-  "signature": "WMGpQ71Tmo575QGZGh1jwib58GcFLLmgSXbHKiBx9J9YDLmbQzY1kd98Sa2I2pRmUVI85HpeM7qGAngjqRr/Dg=="
+  "version": "1.8.4",
+  "notes": "اسم البرنامج «الميزان»؛ صفحة النماذج (كشف الغياب اليومي PDF وWord، والورقة الرسمية)؛ رأس موحّد لكل الأوراق والتقارير برقم النموذج وHR والتاريخ؛ توقيع المدير العام على طلبات الإجازة؛ البرنامج للاطلاع فقط عند انتهاء الترخيص؛ وتحسينات أمنية",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.8.4/FarmerInvoices-AbuAmin.exe",
+  "sha256": "7b13e779dc6b669502e08c7e3cfc864fdef7905112a3e4513ad70ee248f5c2c6",
+  "signature": "P1TYuPgw/KtS+G3zX3EJKi7ceToFWR3rSjeIkXYTCjua4PO2snY/XGKJMfbexGfGjplEqIvmg0uiwmR00HXQBw=="
 }
