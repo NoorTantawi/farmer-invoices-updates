@@ -1,8 +1,8 @@
 {
   "client": "abu-amin",
-  "version": "1.8.5",
-  "notes": "فواتير التجار: زر «إنشاء فواتير التجار» ونموذج طباعة فيه «المطلوب منكم» مكان «قيمة الفاتورة»؛ شاشة الطباعة لتأكيد ما طُبع فعلًا وتعديل علامة الطباعة؛ قراءة الأسماء العربية من ملف جهاز البصمة، وإنشاء الموظفين من أسماء الجهاز وربطهم، وتسجيل غياب من لم يبصم",
-  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.8.5/FarmerInvoices-AbuAmin.exe",
-  "sha256": "1ef02bbdc1590b238a31bdf0877c80355882ea7d8cd01069df2758b818c59499",
-  "signature": "hnEOgPastaEo/p/z/PvDdZvAi9wVgTGjJYbcg0t1Sji2TwNQgJogQ18Pt5mAldguqw1YBY2oaP62av+mhRNhBA=="
+  "version": "1.8.6",
+  "notes": "كل حسابات تقرير المزارعين تُرسل على واتساب تلقائيًا، والمزارع الجديد كذلك دون إدخال رقمه. الحسابات التي لا يُرسل لها تُعلَّم «للطباعة فقط» مرة واحدة وتبقى محفوظة: من زر في كل مزارع في صفحة الفواتير، أو من صفحة حسابات المزارعين.",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.8.6/FarmerInvoices-AbuAmin.exe",
+  "sha256": "716ab12b094be2a41c9fc531d363623cec5a697abb2b16da36440e71754d2dd8",
+  "signature": "rfn4/jSpwlaNXgp6VyPTAKOhhNqwivyWumFXCobTjBn2rY+HySKpHa1azQkS83O0CEBti3qTHS1BDoEcZNAECw=="
 }
