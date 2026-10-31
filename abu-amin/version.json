@@ -1,8 +1,8 @@
 {
   "client": "abu-amin",
-  "version": "1.8.6",
-  "notes": "كل حسابات تقرير المزارعين تُرسل على واتساب تلقائيًا، والمزارع الجديد كذلك دون إدخال رقمه. الحسابات التي لا يُرسل لها تُعلَّم «للطباعة فقط» مرة واحدة وتبقى محفوظة: من زر في كل مزارع في صفحة الفواتير، أو من صفحة حسابات المزارعين.",
-  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.8.6/FarmerInvoices-AbuAmin.exe",
-  "sha256": "716ab12b094be2a41c9fc531d363623cec5a697abb2b16da36440e71754d2dd8",
-  "signature": "rfn4/jSpwlaNXgp6VyPTAKOhhNqwivyWumFXCobTjBn2rY+HySKpHa1azQkS83O0CEBti3qTHS1BDoEcZNAECw=="
+  "version": "1.8.7",
+  "notes": "الرواتب والخصومات: السلف تُسجَّل وتُخصم من راتب شهرها مع صافي الراتب، والتأخير بعد 10 دقائق يُخصم بأجر الساعة. التقارير: تأخير كل يوم، وملف لكل موظف (ZIP). الفواتير: فحص الأسعار والأوزان، وتنزيل كل فواتير التقرير (ZIP) متاح دائمًا.",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.8.7/FarmerInvoices-AbuAmin.exe",
+  "sha256": "94b065985eb335101bbec2a074e5a7349664d8f3fe0dd621975e2fe4da0be2ae",
+  "signature": "S2YzdQI6ku4Bj0QPMtRMcaya/ES4VgJX+T3daIrrXP+/oYRWABZDTITsiyyUbinNY9eTNqhrZ+VZtpZyYHyCDA=="
 }
