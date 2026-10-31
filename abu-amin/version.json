@@ -1,8 +1,8 @@
 {
   "client": "abu-amin",
-  "version": "1.8.7",
-  "notes": "الرواتب والخصومات: السلف تُسجَّل وتُخصم من راتب شهرها مع صافي الراتب، والتأخير بعد 10 دقائق يُخصم بأجر الساعة. التقارير: تأخير كل يوم، وملف لكل موظف (ZIP). الفواتير: فحص الأسعار والأوزان، وتنزيل كل فواتير التقرير (ZIP) متاح دائمًا.",
-  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.8.7/FarmerInvoices-AbuAmin.exe",
-  "sha256": "94b065985eb335101bbec2a074e5a7349664d8f3fe0dd621975e2fe4da0be2ae",
-  "signature": "S2YzdQI6ku4Bj0QPMtRMcaya/ES4VgJX+T3daIrrXP+/oYRWABZDTITsiyyUbinNY9eTNqhrZ+VZtpZyYHyCDA=="
+  "version": "1.8.8",
+  "notes": "الدليل داخل البرنامج: صفحة «الدليل» في القائمة تشرح البصمة والدوام، والرواتب والخصومات والسلف، والتقارير، وفواتير التجار، وما يُفعل عند ظهور مشكلة.",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.8.8/FarmerInvoices-AbuAmin.exe",
+  "sha256": "fe0025c47953175dc610141f675dff48942bd18f3cb69ac1ca68d160abc73422",
+  "signature": "Q1FEoD0pRiM6oCLrgH3gqCfRJuQ2HAYFezuPLOmpispV3xm8vxgZfDL+dl/mUArx4RHpM8fFfXQoksAO5bPJDQ=="
 }
