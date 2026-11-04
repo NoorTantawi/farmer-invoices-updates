@@ -1,8 +1,8 @@
 {
   "client": "ali-attal",
-  "version": "1.8.4",
-  "notes": "اسم البرنامج الآن «الميزان»، وتاريخ ورقم النموذج بخط أكبر على الورقة الرسمية، وخط فوق ملاحظة اعتماد الإجازة من المدير العام",
-  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/ali-attal-v1.8.4/FarmerInvoices-AliAttal.exe",
-  "sha256": "a41185c4b16e54e5f62c881b04cc43712cf0da79cd703dc5086b21aec1994e7e",
-  "signature": "yhHDZBqYjaL7CKx4wc/SKjtmz3bJnDmjyrAj8bpsyyAxlM4fu1B+S1LXgBItrsB3tF1MRVEK80epJztC6XEKDA=="
+  "version": "1.8.9",
+  "notes": "التقويم: كل يوم عليه مستند يظهر فيه اسمه («الاتفاقية» أو «التقرير المرضي») على كل أيام فترته، والضغط عليه يفتح المستند نفسه. نماذج طلب الإجازة الفارغة انتقلت من «المستندات» إلى «التقارير» (وتبقى في «النماذج»).",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/ali-attal-v1.8.9/FarmerInvoices-AliAttal.exe",
+  "sha256": "b29dc75d484722638e97a370f9c0296c0aabf42167fe6324791e74b592cce41c",
+  "signature": "vWIHepc5m5nczidHKu6Phj8rZkMLsf/M5AG5LlYfNUOiWOuKOTLahNNKX1G24nX6ol4veTEr1nJBkmUKqu0hDQ=="
 }
