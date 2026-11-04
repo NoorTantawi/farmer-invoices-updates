@@ -1,8 +1,8 @@
 {
   "client": "abu-amin",
-  "version": "1.8.8",
-  "notes": "الدليل داخل البرنامج: صفحة «الدليل» في القائمة تشرح البصمة والدوام، والرواتب والخصومات والسلف، والتقارير، وفواتير التجار، وما يُفعل عند ظهور مشكلة.",
-  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.8.8/FarmerInvoices-AbuAmin.exe",
-  "sha256": "fe0025c47953175dc610141f675dff48942bd18f3cb69ac1ca68d160abc73422",
-  "signature": "Q1FEoD0pRiM6oCLrgH3gqCfRJuQ2HAYFezuPLOmpispV3xm8vxgZfDL+dl/mUArx4RHpM8fFfXQoksAO5bPJDQ=="
+  "version": "1.8.9",
+  "notes": "التقويم: كل يوم عليه مستند يظهر فيه اسمه («الاتفاقية» أو «التقرير المرضي») على كل أيام فترته، والضغط عليه يفتح المستند نفسه. نماذج طلب الإجازة الفارغة انتقلت من «المستندات» إلى «التقارير» (وتبقى في «النماذج»).",
+  "url": "https://github.com/NoorTantawi/farmer-invoices-updates/releases/download/abu-amin-v1.8.9/FarmerInvoices-AbuAmin.exe",
+  "sha256": "9439246f6c4d93a5e0111cfc519dcc9b98f16e9ed1490c33391ffa5111f2d981",
+  "signature": "+PwphDAXC8MO/sbWkTSU/2tjEuq6z16ikOYoIqEEqq80zjsY55M5Y4vCns6JM7Kyla81htCzo5l+cUMY0609DQ=="
 }
